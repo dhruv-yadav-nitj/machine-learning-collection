@@ -1,6 +1,14 @@
 import numpy as np
 from sklearn.datasets import make_blobs
 
+'''
+m : number of training examples
+n : number of features
+x : m x n
+y : m x 1
+w : n x 1
+'''
+
 
 class LogisticRegression():
     def __init__(self, learning_rate=0.01, iterations=10000):
