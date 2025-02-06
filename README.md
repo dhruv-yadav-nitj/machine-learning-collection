@@ -7,7 +7,8 @@ This repository contains implementations of various classic machine learning alg
 
 ## Machine Learning Algorithms
 - [Linear Regressiong Using Gradient Descent](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Machine%20Learning/Linear%20Regression/linear-regression.py)
-- [Logistic Regression]()
+- [Logistic Regression](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Machine%20Learning/Linear%20Regression/linear-regression.py)
+- [Support Vector Machine]()
 
 ## PyTorch
 - [Coming Soon]
