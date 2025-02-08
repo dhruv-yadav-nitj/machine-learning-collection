@@ -10,6 +10,7 @@ This repository contains implementations of various classic machine learning alg
 - [Logistic Regression](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Machine%20Learning/Linear%20Regression/linear-regression.py)
 - [Support Vector Machine](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Machine%20Learning/Support%20Vector%20Machines/svm.py)
 - [K-Nearest Neighbor]()
+- [Neural Network From Scratch]()
 
 ## PyTorch
 - [Coming Soon]
