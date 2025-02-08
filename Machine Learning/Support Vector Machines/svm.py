@@ -24,7 +24,7 @@ class SVM():
             for i, x_i in enumerate(x):
                 constraint = (y[i] * (np.dot(x_i, self.w) - self.b) >= 1)
                 if constraint:
-                    self.w -= self.lr * (2 * self.lambdaa * self.w)
+                    self.w -= self.lr * (2 * self.lambdaa * self.w)  # directly implemented gradient descent approach
                 else:
                     self.w -= self.lr * (2 * self.lambdaa * self.w - np.dot(x_i, y[i]))
                     self.b -= self.lr * y[i]
