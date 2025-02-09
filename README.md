@@ -7,7 +7,7 @@ This repository contains implementations of various classic machine learning alg
 
 ## Machine Learning Algorithms
 - [Linear Regression Using Gradient Descent](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Machine%20Learning/Linear%20Regression/linear-regression.py)
-- [Logistic Regression](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Machine%20Learning/Linear%20Regression/linear-regression.py)
+- [Logistic Regression](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Machine%20Learning/Logistic%20Regression/logistic-regression.py)
 - [Support Vector Machine](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Machine%20Learning/Support%20Vector%20Machines/svm.py)
 - [K-Nearest Neighbor]()
 - [Neural Network From Scratch]()
