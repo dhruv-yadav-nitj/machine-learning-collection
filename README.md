@@ -13,7 +13,7 @@ This repository contains implementations of various classic machine learning alg
 - [Neural Network From Scratch](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Machine%20Learning/Neural%20Network/neural-network.py)
 
 ## PyTorch
-- [Coming Soon]
+[Tensors]() | [Feed Forward NN]() | [CNN]() | [RNN]() | [Bidirectional RNN]() | [Loading & Saving Model]() | [Custom Dataset (Text)]() | [Custom Dataset (Images)]() | [Mixed Precision Training]() | [Imbalanced Dataset]() | [Transfer Learning]() | [Data Augmentation]() | [Tensorboard]()
 
 ## Architecture Implementations
 - [Coming Later]
