@@ -13,7 +13,7 @@ This repository contains implementations of various classic machine learning alg
 - [Neural Network From Scratch](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Machine%20Learning/Neural%20Network/neural-network.py)
 
 ## PyTorch
-[Tensors](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Tensors/tensors.py) | [Feed Forward NN](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/ANN/ann.py) | [CNN](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/CNN/cnn.py) | [RNN](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/RNN/rnn.py) | [Custom Dataset (Text)]() | [Custom Dataset (Images)]() | [Mixed Precision Training]() | [Imbalanced Dataset]() | [Transfer Learning]() | [Data Augmentation]() | [Tensorboard]()
+[Tensors](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Tensors/tensors.py) | [Feed Forward NN](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/ANN/ann.py) | [CNN](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/CNN/cnn.py) | [RNN](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/RNN/rnn.py) | [Saving & Loading Model](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Save%20Load%20Model/save_load_model.py) | [Custom Dataset (Text)]() | [Custom Dataset (Images)]() | [Mixed Precision Training]() | [Imbalanced Dataset]() | [Transfer Learning]() | [Data Augmentation]() | [Tensorboard]()
 
 ## Architecture Implementations
 - [Coming Later]
