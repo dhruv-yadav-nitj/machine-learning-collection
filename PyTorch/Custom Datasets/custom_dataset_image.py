@@ -15,8 +15,8 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 
 class CatsAndDogsDataset(Dataset):
-    def __init__(self, csv_file, root_dir, transform: None):
-        self.annotations = pd.read_cs(csv_file)
+    def __init__(self, csv_file, root_dir, transform=None):
+        self.annotations = pd.read_csv(csv_file)
         self.root = root_dir
         self.transform = transform
 
@@ -24,17 +24,17 @@ class CatsAndDogsDataset(Dataset):
         return len(self.annotations)
 
     def __getitem__(self, index):
-        file_path = os.join(self.root, self.annotations.iloc[index, 0])
+        file_path = os.path.join(self.root, self.annotations.iloc[index, 0])
         image = Image.open(file_path)
         y_label = torch.tensor(int(self.annotations.iloc[index, 1]))
 
         if self.transform is not None:
-            image = self.transforms(image)
+            image = self.transform(image)
 
         return (image, y_label)
 
 
-dataset = CatsAndDogsDataset(csv_file='cats_dogs.csv', root_dir='PyTorch/archive', transform=transforms.ToTensor())
+dataset = CatsAndDogsDataset(csv_file='PyTorch/archive/cats_dogs.csv', root_dir='PyTorch/archive/cats_dogs_resized', transform=transforms.ToTensor())
 
 # train test splitting
 train_set, test_set = torch.utils.data.random_split(dataset, [5, 5])
