@@ -18,7 +18,7 @@ This repository contains implementations of various classic machine learning alg
 - [CNN](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/CNN/cnn.py)
 - [RNN](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/RNN/rnn.py)
 - [Saving & Loading Model](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Save%20Load%20Model/save_load_model.py)
-- [Custom Dataset (Text)]()
+- [Custom Dataset (Text)](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Custom%20Datasets/custom_dataset_text.py)
 - [Custom Dataset (Images)](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Custom%20Datasets/custom_dataset_image.py)
 - [Imbalanced Dataset](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Imbalanced%20Dataset/handling_imbalanced_dataset.py)
 - [Transfer Learning](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Transfer%20Learning/transfer_learning.py)
