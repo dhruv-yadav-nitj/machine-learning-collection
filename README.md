@@ -25,4 +25,5 @@ This repository contains implementations of various classic machine learning alg
 - [Data Augmentation](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Augmentation/augmentation.py) 
 
 ## Architecture Implementations
-- [Coming Later]
+- [_Attention Is All You Need_]()
+- [_Bidirectional Encoder Representations from Transformers(BERT)_]()
