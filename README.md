@@ -27,3 +27,4 @@ This repository contains implementations of various classic machine learning alg
 ## Architecture Implementations
 - [_Attention Is All You Need_ by Vaswani et al.]()
 - [_Bidirectional Encoder Representations from Transformers(BERT)_ by Google AI]()
+- [_LLaMa_ by Meta AI]()
