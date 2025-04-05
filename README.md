@@ -24,7 +24,7 @@ This repository contains implementations of various classic machine learning alg
 - [Transfer Learning](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Transfer%20Learning/transfer_learning.py)
 - [Data Augmentation](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Augmentation/augmentation.py) 
 
-## Architecture Implementations
+## Architectures/Paper-Implementations
 - [_Attention Is All You Need_ by Vaswani et al.](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Architectures/Attention%20Is%20All%20You%20Need/model.py)
 - [_Bidirectional Encoder Representations from Transformers(BERT)_ by Google AI]()
 - [_LLaMa_ by Meta AI]()
