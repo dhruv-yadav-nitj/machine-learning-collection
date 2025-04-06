@@ -137,8 +137,8 @@ def get_loader(img_folder, annotation_file, transforms=None, batch_size=32, shuf
 
 
 if __name__ == '__main__':
-    img = '/content/flickr8k/flickr8k/images'
-    cap = '/content/flickr8k/flickr8k/captions.txt'
+    img = 'PyTorch/datasets/flickr8k/images'
+    cap = 'PyTorch/datasets/flickr8k/captions.csv'
     my_transforms = transforms.Compose([
         transforms.Resize((224, 224)),
         transforms.ToTensor()

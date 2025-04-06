@@ -34,7 +34,7 @@ class CatsAndDogsDataset(Dataset):
         return (image, y_label)
 
 
-dataset = CatsAndDogsDataset(csv_file='PyTorch/archive/cats_dogs.csv', root_dir='PyTorch/archive/cats_dogs_resized', transform=transforms.ToTensor())
+dataset = CatsAndDogsDataset(csv_file='PyTorch/datasets/archive/cats_dogs.csv', root_dir='PyTorch/datasets/archive/cats_dogs_resized', transform=transforms.ToTensor())
 
 # train test splitting
 train_set, test_set = torch.utils.data.random_split(dataset, [5, 5])
