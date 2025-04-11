@@ -3,3 +3,4 @@
 git 
 PyTorch/datasets/
 venv/
+**/__pycache__

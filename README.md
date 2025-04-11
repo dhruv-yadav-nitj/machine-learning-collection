@@ -26,5 +26,4 @@ This repository contains implementations of various classic machine learning alg
 
 ## Architectures/Paper-Implementations
 - [_Attention Is All You Need_ by Vaswani et al.](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Architectures/Attention%20Is%20All%20You%20Need/model.py)
-- [_Bidirectional Encoder Representations from Transformers(BERT)_ by Google AI]()
-- [_LLaMa_ by Meta AI]()
+- [_LoRA - Low-Rank Adaptation of Large Language Models_ by Microsoft]()
