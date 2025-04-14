@@ -23,6 +23,7 @@ This repository contains implementations of various classic machine learning alg
 - [Imbalanced Dataset](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Imbalanced%20Dataset/handling_imbalanced_dataset.py)
 - [Transfer Learning](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Transfer%20Learning/transfer_learning.py)
 - [Data Augmentation](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Augmentation/augmentation.py) 
+- [Parametrization](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/PyTorch/Parametrization/parametrization_torch.ipynb) 
 
 ## Architectures/Paper-Implementations
 - [_Attention Is All You Need_ by Vaswani et al.](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Architectures/Attention%20Is%20All%20You%20Need/model.py)
