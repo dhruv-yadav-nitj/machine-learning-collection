@@ -28,3 +28,4 @@ This repository contains implementations of various classic machine learning alg
 ## Architectures/Paper-Implementations
 - [_Attention Is All You Need_ by Vaswani et al.](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Architectures/Attention%20Is%20All%20You%20Need/model.py)
 - [_LoRA - Low-Rank Adaptation of Large Language Models_ by Microsoft](https://github.com/dhruv-yadav-nitj/Machine-Learning-Collection/blob/main/Architectures/LoRA/lora_tuning.ipynb)
+- [_Mixture-of-Agents_ by Wang et al.](https://github.com/dhruv-yadav-nitj/machine-learning-collection/tree/main/Architectures/Mixture%20of%20Agents)
